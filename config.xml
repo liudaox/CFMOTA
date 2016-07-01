@@ -1,0 +1,8 @@
+<XMLBody>
+<Field id="iPhoneCurrentVer">6</Field>
+<Field id="AndroidCurrentVer">1</Field>
+<Field id="iOSDownLoad">https://raw.githubusercontent.com/liudaox/CFMOTA/master/cfm.plist</Field>
+<Field id="AndroidDownLoad">
+http://
+</Field>
+</XMLBody>
